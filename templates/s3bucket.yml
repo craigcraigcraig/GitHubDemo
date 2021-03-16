@@ -1,4 +1,4 @@
 Resources:
-  S3Bucket4:
+  S3Bucket5:
     Type: 'AWS::S3::Bucket'  
 
